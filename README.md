@@ -1,5 +1,5 @@
 # 猛干下载器(limengan downloader)
-这个仓库存档了一个小软件，用来不通过原神的启动器下载原神的安装包。
+这个仓库存档了[一个小软件: mengan.exe](https://github.com/pregnancy2508/FileHost/raw/main/mengan.exe)，用来不通过原神的启动器下载原神的安装包。
 不过下载的安装包会在程序停止后被删除，因此它并不能实现真正的下载，只会导致原神的CDN流量被消耗而增加米哈游账单。
 
 是的，这就是这个软件唯一的作用。
